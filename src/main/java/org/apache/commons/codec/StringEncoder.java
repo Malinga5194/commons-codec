@@ -31,3 +31,5 @@ public interface StringEncoder extends Encoder {
      */
     String encode(String source) throws EncoderException;
 }
+
+// Modified by MS26906294 for Lab 5
